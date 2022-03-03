@@ -1,0 +1,2 @@
+Tải các ảnh QR về máy điện thoại và đưa điện thoại lên camera máy tính khi chạy phần mềm
+Phần mềm sẽ hiển thị 3 trường hợp tiêm: Đã tiêm 1 mũi, Đã tiêm đủ 2 mũi và Chưa tiêm mũi nào
