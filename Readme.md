@@ -1,2 +1,2 @@
-
-<img src="python.PNG">Result</img>
+<div>Result</div>
+<img src="python.PNG"></img>
