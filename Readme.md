@@ -1,2 +1,2 @@
-Result
-<img src="python.PNG"></img>
+
+<img src="python.PNG">Result</img>
